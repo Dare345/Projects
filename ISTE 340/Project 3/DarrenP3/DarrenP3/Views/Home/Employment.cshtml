@@ -1,0 +1,138 @@
+﻿@model DarrenP3.Models.EmploymentModel;
+@{
+    ViewData["Title"] = Model.pageTitle;
+}
+<h1>Employment</h1>
+@*//Introduction to Employment*@ 
+<div id="pepEverything" style="display:none">
+    <div class="contain">
+        <h2>@Model.introduction.title</h2>
+        <div class="box">
+        @foreach (var content in Model.introduction.content){
+            <h3>@content.title</h3>
+            <p>@content.description</p>
+        }
+        </div>
+    </div>
+    @*//Statistics for Ischool*@
+    <div class="contain">
+        <h2>@Model.degreeStatistics.title</h2>
+        <div class="box">
+            @foreach(var stat in Model.degreeStatistics.statistics)
+            {
+                <div>
+                    <h3>@stat.value</h3>
+                    <p>@stat.description</p>
+                </div>
+            }
+        </div>
+    </div>
+    @*//list of Employers that are connected to RIT*@
+    <div class="contain">
+        <h2>@Model.employers.title</h2>
+        <div class="box">
+            @foreach (var stat in Model.employers.employerNames)
+            {
+                <div>
+                    <h4>@stat</h4>
+                </div>
+            }
+        </div>
+    </div>
+    @*//list of careers you get into*@
+    <div class="contain">
+        <h2>@Model.careers.title</h2>
+        <div class="box">
+            @foreach (var car in Model.careers.careerNames)
+            {
+                <div class="career">
+                    <h4>@car</h4>
+                </div>
+            }
+        </div>
+    </div>
+
+    @*//The Table the uses table pagination listing the information for every co-op and employment information*@
+    <div class="table">
+        @*//Uses tabs to split the two tables CO-OP and Employment Information ands builds them*@
+            <div class="tabTest">
+                <ul>
+                    <li><a href="#Co">CO-OP</a></li>
+                    <li><a href="#Em">Employment</a></li>
+                </ul>
+
+                <div id="Co">
+                    <h3>@Model.coopTable.title</h3>
+                    <table id="coop" class="display" style="width:100%">
+                        <thead>
+                            <tr>
+                                <th>Employer</th>
+                                <th>Degree</th>
+                                <th>City</th>
+                                <th>Term</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                                @foreach (var coop in Model.coopTable.coopInformation)
+                                {
+                                <tr>
+                                    <td>@coop.employer</td>
+                                    <td>@coop.degree</td>
+                                    <td>@coop.city</td>
+                                    <td>@coop.term</td>
+                                </tr>
+                                }
+                        </tbody>
+                            
+                        <tfoot>
+                            <tr>
+                                <th>Employer</th>
+                                <th>Degree</th>
+                                <th>City</th>
+                                <th>Term</th>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+
+                <div id="Em">
+                    <h3>@Model.employmentTable.title</h3>
+                    <table id="employment" class="display" style="width:100%">
+                        <thead>
+                            <tr>
+                                <th>Employer</th>
+                                <th>Degree</th>
+                                <th>City</th>
+                                <th>Title</th>
+                                <th>StartDate</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            
+                                @foreach (var care in Model.employmentTable.professionalEmploymentInformation)
+                                {
+                                <tr>
+                                    <td>@care.employer</td>
+                                    <td>@care.degree</td>
+                                    <td>@care.city</td>
+                                    <td>@care.title</td>
+                                    <td>@care.startDate</td>
+                                </tr>
+                                }
+                            
+                        </tbody>
+
+                        <tfoot>
+                            <tr>
+                                <th>Employer</th>
+                                <th>Degree</th>
+                                <th>City</th>
+                                <th>Title</th>
+                                <th>StartDate</th>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+            </div>
+    </div>
+</div>

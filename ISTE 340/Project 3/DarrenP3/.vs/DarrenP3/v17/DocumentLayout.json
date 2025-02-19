@@ -1,0 +1,466 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\views\\home\\minor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\views\\home\\minor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\views\\home\\people.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\views\\home\\people.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\views\\home\\employment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\views\\home\\employment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\views\\home\\dyntest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\views\\home\\dyntest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\models\\minormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\models\\minormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\views\\home\\degree.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\views\\home\\degree.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\models\\aboutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\models\\aboutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\views\\home\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\views\\home\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\models\\employmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\models\\employmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\services\\dataretrieval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\services\\dataretrieval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\wwwroot\\lib\\4-lines-jquery-accordion\\dist\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\wwwroot\\lib\\4-lines-jquery-accordion\\dist\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\wwwroot\\lib\\jquery-modal\\jquery.modal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\wwwroot\\lib\\jquery-modal\\jquery.modal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\wwwroot\\lib\\jquery-modal\\examples\\ajax2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\wwwroot\\lib\\jquery-modal\\examples\\ajax2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|c:\\users\\ydarr\\source\\repos\\darrenp3\\darrenp3\\darrenp3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1888C387-20C8-4CF2-987E-0BA85931CA7E}|DarrenP3\\DarrenP3.csproj|solutionrelative:darrenp3\\darrenp3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Degree.cshtml",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\Home\\Degree.cshtml",
+              "RelativeDocumentMoniker": "DarrenP3\\Views\\Home\\Degree.cshtml",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\Home\\Degree.cshtml",
+              "RelativeToolTip": "DarrenP3\\Views\\Home\\Degree.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T04:08:32.016Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DarrenP3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DarrenP3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T23:33:29.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MinorModel.cs",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Models\\MinorModel.cs",
+              "RelativeDocumentMoniker": "DarrenP3\\Models\\MinorModel.cs",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Models\\MinorModel.cs",
+              "RelativeToolTip": "DarrenP3\\Models\\MinorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:16:59.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "DarrenP3\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "DarrenP3\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T22:05:56.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DarrenP3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DarrenP3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T21:54:48.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "People.cshtml",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\Home\\People.cshtml",
+              "RelativeDocumentMoniker": "DarrenP3\\Views\\Home\\People.cshtml",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\Home\\People.cshtml",
+              "RelativeToolTip": "DarrenP3\\Views\\Home\\People.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T01:00:54.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Minor.cshtml",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\Home\\Minor.cshtml",
+              "RelativeDocumentMoniker": "DarrenP3\\Views\\Home\\Minor.cshtml",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\Home\\Minor.cshtml",
+              "RelativeToolTip": "DarrenP3\\Views\\Home\\Minor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T01:00:56.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employment.cshtml",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\Home\\Employment.cshtml",
+              "RelativeDocumentMoniker": "DarrenP3\\Views\\Home\\Employment.cshtml",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\Home\\Employment.cshtml",
+              "RelativeToolTip": "DarrenP3\\Views\\Home\\Employment.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADgAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T21:20:21.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DarrenP3\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "DarrenP3\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAGMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T15:07:42.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DynTest.cshtml",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\Home\\DynTest.cshtml",
+              "RelativeDocumentMoniker": "DarrenP3\\Views\\Home\\DynTest.cshtml",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\Home\\DynTest.cshtml",
+              "RelativeToolTip": "DarrenP3\\Views\\Home\\DynTest.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T03:20:00.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "DarrenP3\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "DarrenP3\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T01:33:10.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DarrenP3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DarrenP3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T00:55:58.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AboutModel.cs",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Models\\AboutModel.cs",
+              "RelativeDocumentMoniker": "DarrenP3\\Models\\AboutModel.cs",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Models\\AboutModel.cs",
+              "RelativeToolTip": "DarrenP3\\Models\\AboutModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:48:16.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Course.cshtml",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\Home\\Course.cshtml",
+              "RelativeDocumentMoniker": "DarrenP3\\Views\\Home\\Course.cshtml",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\Home\\Course.cshtml",
+              "RelativeToolTip": "DarrenP3\\Views\\Home\\Course.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T15:54:53.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\4-lines-jquery-accordion\\dist\\script.js",
+              "RelativeDocumentMoniker": "DarrenP3\\wwwroot\\lib\\4-lines-jquery-accordion\\dist\\script.js",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\4-lines-jquery-accordion\\dist\\script.js",
+              "RelativeToolTip": "DarrenP3\\wwwroot\\lib\\4-lines-jquery-accordion\\dist\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T23:23:19.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ajax2.html",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-modal\\examples\\ajax2.html",
+              "RelativeDocumentMoniker": "DarrenP3\\wwwroot\\lib\\jquery-modal\\examples\\ajax2.html",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-modal\\examples\\ajax2.html",
+              "RelativeToolTip": "DarrenP3\\wwwroot\\lib\\jquery-modal\\examples\\ajax2.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-09T04:05:35.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\README.md",
+              "RelativeDocumentMoniker": "DarrenP3\\README.md",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\README.md",
+              "RelativeToolTip": "DarrenP3\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-10T00:58:42.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataRetrieval.cs",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Services\\DataRetrieval.cs",
+              "RelativeDocumentMoniker": "DarrenP3\\Services\\DataRetrieval.cs",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Services\\DataRetrieval.cs",
+              "RelativeToolTip": "DarrenP3\\Services\\DataRetrieval.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:58:45.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmploymentModel.cs",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Models\\EmploymentModel.cs",
+              "RelativeDocumentMoniker": "DarrenP3\\Models\\EmploymentModel.cs",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Models\\EmploymentModel.cs",
+              "RelativeToolTip": "DarrenP3\\Models\\EmploymentModel.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAA4wEgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:14:08.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "jquery-ui.min.js",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.js",
+              "RelativeDocumentMoniker": "DarrenP3\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.js",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.js",
+              "RelativeToolTip": "DarrenP3\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T22:02:36.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "jquery.modal.css",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-modal\\jquery.modal.css",
+              "RelativeDocumentMoniker": "DarrenP3\\wwwroot\\lib\\jquery-modal\\jquery.modal.css",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-modal\\jquery.modal.css",
+              "RelativeToolTip": "DarrenP3\\wwwroot\\lib\\jquery-modal\\jquery.modal.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-09T03:41:13.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "DarrenP3\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "DarrenP3\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T14:45:39.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "DarrenP3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "DarrenP3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T21:04:17.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "DarrenP3\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "DarrenP3\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T21:04:16.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DarrenP3\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DarrenP3\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T14:37:01.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DarrenP3\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DarrenP3\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:43:21.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DarrenP3.csproj",
+              "DocumentMoniker": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\DarrenP3.csproj",
+              "RelativeDocumentMoniker": "DarrenP3\\DarrenP3.csproj",
+              "ToolTip": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\DarrenP3.csproj",
+              "RelativeToolTip": "DarrenP3\\DarrenP3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T14:57:01.008Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

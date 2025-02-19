@@ -1,0 +1,312 @@
+﻿@model dynamic
+@{
+    ViewData["Title"] = Model.pageTitle;
+}
+
+<h1>Minors</h1>
+<div class="minors">
+    @foreach (var minor in Model.Minor.UgMinors)
+    {
+        <div class="minor">
+            <h2>@minor.name</h2>
+            <h2>@minor.title</h2>
+            <p>@minor.description</p>
+            @foreach(var course in minor.courses)
+            {
+                //tried to dynamically create each course but ended with if statments to check which course to get from the model
+                //Use Modal plug in to display information for each course
+                <div class="mcour">
+                    @if (@course.Equals("ISTE-230")){ 
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE230.title.Replace("&amp;", "&") (@Model.ISTE230.courseID)</h3>
+                            <p>@Model.ISTE230.description</p>
+                        </div>
+                        <a href="#@course" class="alink" rel="modalFox:open">@course</a>
+                        }
+                    else if (@course.Equals("ISTE-430"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE430.title (@Model.ISTE430.courseID)</h3>
+                            <p>@Model.ISTE430.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }
+                    else if (@course.Equals("ISTE-330"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE330.title (@Model.ISTE330.courseID)</h3>
+                            <p>@Model.ISTE330.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }
+                    else if (@course.Equals("ISTE-436"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE436.title (@Model.ISTE436.courseID)</h3>
+                            <p>@Model.ISTE436.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }
+                    else if (@course.Equals("ISTE-432"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE432.title (@Model.ISTE432.courseID)</h3>
+                            <p>@Model.ISTE432.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }
+                    else if (@course.Equals("ISTE-434"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE434.title (@Model.ISTE434.courseID)</h3>
+                            <p>@Model.ISTE434.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }
+                    else if (@course.Equals("ISTE-382"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE382.title (@Model.ISTE382.courseID)</h3>
+                            <p>@Model.ISTE382.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }else if (@course.Equals("ISTE-384"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE384.title (@Model.ISTE384.courseID)</h3>
+                            <p>@Model.ISTE384.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }
+                    else if (@course.Equals("ISTE-386"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE386.title (@Model.ISTE386.courseID)</h3>
+                            <p>@Model.ISTE386.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }else if (@course.Equals("ISTE-482"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE482.title (@Model.ISTE482.courseID)</h3>
+                            <p>@Model.ISTE482.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }else if (@course.Equals("ISTE-484"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE484.title (@Model.ISTE484.courseID)</h3>
+                            <p>@Model.ISTE484.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }else if (@course.Equals("ISTE-483"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE483.title (@Model.ISTE483.courseID)</h3>
+                            <p>@Model.ISTE483.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }
+                    else if (@course.Equals("MEDI-130"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.MEDI130.title (@Model.MEDI130.courseID)</h3>
+                            <p>@Model.MEDI130.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }else if (@course.Equals("MEDI-320"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.MEDI320.title (@Model.MEDI320.courseID)</h3>
+                            <p>@Model.MEDI320.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }
+                    else if (@course.Equals("MEDI-330"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.MEDI330.title (@Model.MEDI330.courseID)</h3>
+                            <p>@Model.MEDI330.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }
+                    else if (@course.Equals("MEDI-430"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.MEDI430.title (@Model.MEDI430.courseID)</h3>
+                            <p>@Model.MEDI430.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }
+                    else if (@course.Equals("ISTE-120"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE120.title (@Model.ISTE120.courseID)</h3>
+                            <p>@Model.ISTE120.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }
+                    else if (@course.Equals("ISTE-140"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE140.title.Replace("&amp;", "&") (@Model.ISTE140.courseID)</h3>
+                            <p>@Model.ISTE140.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }
+                    else if (@course.Equals("ISTE-260"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE260.title (@Model.ISTE260.courseID)</h3>
+                            <p>@Model.ISTE260.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }
+                    else if (@course.Equals("ISTE-240"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE240.title.Replace("&amp;", "&") (@Model.ISTE240.courseID)</h3>
+                            <p>@Model.ISTE240.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }
+                    else if (@course.Equals("ISTE-252"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE252.title (@Model.ISTE252.courseID)</h3>
+                            <p>@Model.ISTE252.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }
+                    else if (@course.Equals("ISTE-340"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE340.title (@Model.ISTE340.courseID)</h3>
+                            <p>@Model.ISTE340.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }else if (@course.Equals("ISTE-454"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE454.title (@Model.ISTE454.courseID)</h3>
+                            <p>@Model.ISTE454.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }else if (@course.Equals("ISTE-456"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE456.title (@Model.ISTE456.courseID)</h3>
+                            <p>@Model.ISTE456.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }else if (@course.Equals("ISTE-190"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE190.title (@Model.ISTE190.courseID)</h3>
+                            <p>@Model.ISTE190.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }else if (@course.Equals("NSSA-102"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.NSSA102.title (@Model.NSSA102.courseID)</h3>
+                            <p>@Model.NSSA102.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }else if (@course.Equals("NSSA-241"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.NSSA241.title (@Model.NSSA241.courseID)</h3>
+                            <p>@Model.NSSA241.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }else if (@course.Equals("NSSA-242"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.NSSA242.title (@Model.NSSA242.courseID)</h3>
+                            <p>@Model.NSSA242.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }else if (@course.Equals("NSSA-341"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.NSSA341.title (@Model.NSSA341.courseID)</h3>
+                            <p>@Model.NSSA341.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }else if (@course.Equals("NSSA-220"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.NSSA220.title (@Model.NSSA220.courseID)</h3>
+                            <p>@Model.NSSA220.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }else if (@course.Equals("NSSA-221"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.NSSA221.title (@Model.NSSA221.courseID)</h3>
+                            <p>@Model.NSSA221.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }else if (@course.Equals("NSSA-322"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.NSSA322.title (@Model.NSSA322.courseID)</h3>
+                            <p>@Model.NSSA322.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }else if (@course.Equals("ISTE-105"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE105.title (@Model.ISTE105.courseID)</h3>
+                            <p>@Model.ISTE105.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }else if (@course.Equals("ISTE-205"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE205.title (@Model.ISTE205.courseID)</h3>
+                            <p>@Model.ISTE205.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }else if (@course.Equals("ISTE-206"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE206.title (@Model.ISTE205.courseID)</h3>
+                            <p>@Model.ISTE206.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }else if (@course.Equals("ISTE-305"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE305.title (@Model.ISTE305.courseID)</h3>
+                            <p>@Model.ISTE305.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }else if (@course.Equals("ISTE-405"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE405.title.Replace("&amp;", "&") (@Model.ISTE405.courseID)</h3>
+                            <p>@Model.ISTE405.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }else if (@course.Equals("SWEN-383"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.SWEN383.title.Replace("&amp;", "&") (@Model.SWEN383.courseID)</h3>
+                            <p>@Model.SWEN383.description</p>
+                        </div>
+                        <a href="#@course" rel="modalFox:open">@course</a>
+                    }else if (@course.Equals("ISTE-341"))
+                    {
+                        <div id="@course" class="modalFox">
+                            <h3>@Model.ISTE341.title (@Model.ISTE341.courseID)</h3>
+                            <p>@Model.ISTE341.description</p>
+                        </div>
+                    <a href="#@course" rel="modalFox:open">@course</a>
+                    }
+                </div>
+        }
+        </div>
+    }
+</div>

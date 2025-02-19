@@ -1,0 +1,101 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/*About Page*/
+
+.about{
+    border:solid 5px orange;
+    padding:2.5%;
+    margin:4.5%;
+    text-align:center;
+}
+/*End About Page*/
+/*Course*/
+.course {
+    border: solid 5px orange;
+    padding: 2.5%;
+    margin: 4.5%;
+    text-align: center;
+}
+/*People Page*/
+.person{
+    min-height: 260px;
+    width:200px;
+    display:inline-table;
+}
+.person > img{
+    max-height:200px;
+    margin-bottom:10px;
+}
+/*End About Page*/
+/*Degrees Page*/
+#undergraduate {
+    border: solid 5px orange;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+#graduate {
+    border: solid 5px orange;
+    display: flex;
+    flex-direction: column;
+}
+.grad{
+   margin:20px;
+}
+.under{
+    margin:20px;
+}
+.titles{
+    text-align:center;
+}
+
+/*Degrees Page end*/
+.minor {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 50px 0px;
+    border: solid 5px orange;
+    padding:2%;
+}
+
+.mcour{
+    display:flex;
+    flex-direction:column;
+    flex-wrap:wrap;
+    align-content:center;
+}
+/*Employment css start here*/
+.contain {
+    border: solid 5px orange;
+    margin:50px 0px;
+    padding:10px;
+}
+.box {
+    text-align:center;
+}
+h2{
+    text-align:center;
+}

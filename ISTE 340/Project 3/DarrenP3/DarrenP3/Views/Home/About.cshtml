@@ -1,0 +1,11 @@
+﻿@model DarrenP3.Models.AboutModel;
+@{
+    ViewData["Title"] = Model.pageTitle;
+}
+@*//Simple description of the about RIT*@
+<h1>@Model.title</h1>
+<section class="about">
+    <p>@Model.description</p>
+    <p>@Model.quote</p>
+    <p>-- @Model.quoteAuthor --</p>
+</section>

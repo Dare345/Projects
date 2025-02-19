@@ -1,0 +1,437 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DarrenP3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DarrenP3.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\imgs\\RIT-00071A_RGB_whiteTM.jpg",
+      "PackagePath": "staticwebassets\\imgs\\RIT-00071A_RGB_whiteTM.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\4-lines-jquery-accordion\\README.markdown",
+      "PackagePath": "staticwebassets\\lib\\4-lines-jquery-accordion\\README.markdown"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\4-lines-jquery-accordion\\dist\\index.html",
+      "PackagePath": "staticwebassets\\lib\\4-lines-jquery-accordion\\dist\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\4-lines-jquery-accordion\\dist\\script.js",
+      "PackagePath": "staticwebassets\\lib\\4-lines-jquery-accordion\\dist\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\4-lines-jquery-accordion\\dist\\style.css",
+      "PackagePath": "staticwebassets\\lib\\4-lines-jquery-accordion\\dist\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\4-lines-jquery-accordion\\license.txt",
+      "PackagePath": "staticwebassets\\lib\\4-lines-jquery-accordion\\license.txt"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\4-lines-jquery-accordion\\src\\index.html",
+      "PackagePath": "staticwebassets\\lib\\4-lines-jquery-accordion\\src\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\4-lines-jquery-accordion\\src\\script.js",
+      "PackagePath": "staticwebassets\\lib\\4-lines-jquery-accordion\\src\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\4-lines-jquery-accordion\\src\\style.scss",
+      "PackagePath": "staticwebassets\\lib\\4-lines-jquery-accordion\\src\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-modal\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-modal\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-modal\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\jquery-modal"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-modal\\README.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-modal\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-modal\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\jquery-modal\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-modal\\close.sketch",
+      "PackagePath": "staticwebassets\\lib\\jquery-modal\\close.sketch"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-modal\\compositor.json",
+      "PackagePath": "staticwebassets\\lib\\jquery-modal\\compositor.json"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-modal\\examples\\ajax.html",
+      "PackagePath": "staticwebassets\\lib\\jquery-modal\\examples\\ajax.html"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-modal\\examples\\ajax2.html",
+      "PackagePath": "staticwebassets\\lib\\jquery-modal\\examples\\ajax2.html"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-modal\\examples\\highlight\\github.css",
+      "PackagePath": "staticwebassets\\lib\\jquery-modal\\examples\\highlight\\github.css"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-modal\\examples\\highlight\\highlight.pack.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-modal\\examples\\highlight\\highlight.pack.js"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-modal\\examples\\index.html",
+      "PackagePath": "staticwebassets\\lib\\jquery-modal\\examples\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-modal\\gulpfile.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-modal\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-modal\\jquery.modal.css",
+      "PackagePath": "staticwebassets\\lib\\jquery-modal\\jquery.modal.css"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-modal\\jquery.modal.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-modal\\jquery.modal.js"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-modal\\jquery.modal.min.css",
+      "PackagePath": "staticwebassets\\lib\\jquery-modal\\jquery.modal.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-modal\\jquery.modal.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-modal\\jquery.modal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-modal\\package.json",
+      "PackagePath": "staticwebassets\\lib\\jquery-modal\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-ui\\images\\ui-bg_diagonals-thick_18_b81900_40x40.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-bg_diagonals-thick_18_b81900_40x40.png"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-ui\\images\\ui-bg_diagonals-thick_20_666666_40x40.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-bg_diagonals-thick_20_666666_40x40.png"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-ui\\images\\ui-bg_glass_100_f6f6f6_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-bg_glass_100_f6f6f6_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-ui\\images\\ui-bg_glass_100_fdf5ce_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-bg_glass_100_fdf5ce_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-ui\\images\\ui-bg_glass_65_ffffff_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-bg_glass_65_ffffff_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-ui\\images\\ui-bg_gloss-wave_35_f6a828_500x100.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-bg_gloss-wave_35_f6a828_500x100.png"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-ui\\images\\ui-bg_highlight-soft_100_eeeeee_1x100.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-bg_highlight-soft_100_eeeeee_1x100.png"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-ui\\images\\ui-bg_highlight-soft_75_ffe45c_1x100.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-bg_highlight-soft_75_ffe45c_1x100.png"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_222222_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-icons_222222_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_228ef1_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-icons_228ef1_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_ef8c08_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-icons_ef8c08_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_ffd27a_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-icons_ffd27a_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\package-lock.json",
+      "PackagePath": "staticwebassets\\lib\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\ydarr\\source\\repos\\DarrenP3\\DarrenP3\\wwwroot\\lib\\package.json",
+      "PackagePath": "staticwebassets\\lib\\package.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DarrenP3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DarrenP3.props",
+      "PackagePath": "build\\DarrenP3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DarrenP3.props",
+      "PackagePath": "buildMultiTargeting\\DarrenP3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DarrenP3.props",
+      "PackagePath": "buildTransitive\\DarrenP3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

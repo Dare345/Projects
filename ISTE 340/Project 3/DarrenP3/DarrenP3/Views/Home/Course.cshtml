@@ -1,0 +1,9 @@
+﻿@model dynamic
+@{
+    ViewData["Title"] = Model.pageTitle;
+}
+<h1>@Model.Course.courseID</h1>
+<section class="about">
+    <p>@Model.Course.title</p>
+    <p>@Model.Course.description</p>
+</section>

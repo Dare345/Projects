@@ -1,0 +1,83 @@
+﻿@model DarrenP3.Models.DegreeModel;
+@{
+    ViewData["Title"] = Model.pageTitle;
+}
+
+<h1>Our Degrees</h1>
+<div id="pepEverything" style="display:none">
+    <h2 class="titles">Undergraduate Degrees</h2>
+    @*//Beginning of undergraduate information list info of different majors and degrees as well concentrations*@
+    <div id="undergraduate">
+                @foreach (var under in Model.undergraduate)
+                {
+                <div class="under">
+                    <ul class="accordion">
+                        <li class="accordion-item">
+                            <h3 class="accordion-thumb">@under.title (@under.degreeName)</h3>
+                            <p class="accordion-panel">@under.description</p>
+                        </li>
+                        <li class="accordion-item">
+                            <h3 class="accordion-thumb">Concentrations</h3>
+                            <p class="accordion-panel">
+                                @foreach (var conc in under.concentrations)
+                                {
+                                    @conc<br />
+                                }
+                            </p>
+                        </li>
+                    </ul>
+                </div>
+                }
+    </div>
+    @*//Beginning of graduate information list info of different majors and degrees as well concentrations*@
+    <h2 class="titles">Graduate Degrees</h2>
+    <div id="graduate">
+            @foreach (var grad in Model.graduate)
+            {
+                //There is a conditional statement that checks if the its going to use the certificate data
+                //Certificate data format is different from the other degrees
+                    @if (grad.concentrations != null)
+                    {
+                    <div class="grad">
+                        <ul class="accordion">
+                            <li class="accordion-item">
+                                <h3 class="accordion-thumb">@grad.title (@grad.degreeName)</h3>
+                                <p class="accordion-panel">@grad.description</p>
+                            </li>
+                            <li class="accordion-item">
+                                    <h3 class="accordion-thumb">Concentrations</h3>
+                                    <p class="accordion-panel">
+                                        @foreach (var conc in grad.concentrations)
+                                        {
+                                            @conc<br/>
+                                        }
+                                    </p>
+                            </li>
+                        </ul>
+                    </div>
+                    }
+                    @if (grad.availableCertificates != null)
+                    {
+                    <div class="grad">
+                        <ul class="accordion">
+                            <li class="accordion-item">
+                                <h3 class="accordion-thumb">@grad.title (@grad.degreeName)</h3>
+                                <p class="accordion-panel">@grad.description</p>
+                            </li>
+                            <li class="accordion-item">
+                                <h3 class="accordion-thumb">Concentrations</h3>
+                                <p class="accordion-panel">
+                                    @foreach (var cert in grad.availableCertificates)
+                                    {
+                                        @cert<br/>
+                                    }
+                                </p>
+                            </li>
+                        </ul>
+                    </div>
+                    }
+            }
+            </div>
+    </div>
+</div>
+
