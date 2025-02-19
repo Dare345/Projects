@@ -1,0 +1,108 @@
+head{
+    background-color:#0d0d0d;
+}
+body{
+    background-color:#0d0d0d;
+    display:flex;
+    flex-direction:column;
+    margin:0;
+}
+hr{
+    border-color:grey;
+}
+div{
+    color:#9A9ABC;
+    display:flex;
+    flex-direction:row;
+    gap:5px;
+    font-size:20px;
+    padding-left:5px;
+}
+h1{
+    color:#9A9ABC;
+    font-size:50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-right:20px;
+}
+h2{
+    color:#9A9ABC;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:30px;
+    margin:10px;
+    padding-bottom:10px;
+}
+p{
+    color:#9A9ABC;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin:10px;
+    line-height:200%;
+    display:flex;
+    flex-direction:row;
+    width:50%;
+}
+ol{
+    color:#9A9ABC;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin:-10px;
+}
+ul{
+    color:#9A9ABC;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin:-10px;
+}
+li{
+    padding-bottom:10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+a{
+    color:#3333ff;
+}
+a:visited{
+    color:#00e6e6
+}
+a:hover{
+    color:darkgrey;
+}
+a:active{
+    color:#00e6e6;
+}
+li a {
+    color:#00e6e6;
+}
+p a{
+    color:#00e6e6;
+}
+#Title{
+    background-color:#0d0d0d;
+    padding-top:50px;
+}
+
+.block{
+    background-color:black;
+    height:60px;
+}
+img{
+    min-height:50px;
+    min-width:60px;
+    height:240px;
+    width:240px;
+}
+.taskbar{
+  width:800px;
+  height:50px;
+  position:fixed;
+  background-color:#0d0d0d;
+  display:flex;
+justify-content:space-between;
+}
+nav a{
+    font-size:15px;
+    padding:10px 33.33%;
+    border:5px solid black;
+    background-color:black;
+}
+.space{
+    margin-bottom:50px;
+}
