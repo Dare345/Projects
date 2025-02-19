@@ -1,0 +1,16 @@
+form{
+    display:flex;
+    flex-direction:column;
+}
+
+#name{
+width:500px;
+}
+
+#message{
+width:600px;
+}
+
+#submit{
+    width:100px;
+}

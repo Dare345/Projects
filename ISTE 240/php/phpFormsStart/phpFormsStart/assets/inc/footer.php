@@ -1,0 +1,1 @@
+<footer>Dan's Pizza Shoppe &reg;</footer>

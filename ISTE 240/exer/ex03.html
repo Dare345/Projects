@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+    <!-- Darren Yang, ISTE-240, 2238, 5/28/2024 -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="assets/css/Ex3/styles.css" rel="stylesheet">
+    <title>Exercise 3</title>
+</head>
+<body>
+    <!-- navigation bar -->
+    <nav>
+        <ul>
+            <li><img src="assets/new_RIT_logo1_w.png" alt="rit logo"></li>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Activites</a></li>
+            <li><a href="#">Food</a></li>
+            <li><a href="#">Rest</a></li>
+            <li><a href="#">People</a></li>
+            <li><a href="#">FeedBack</a></li>
+        </ul>
+    </nav>
+    <!-- main content with the form and submit -->
+    <main>
+        <div>
+            <h1>Please tell us about your visit</h1>
+            <hr>
+        </div>
+        <form action="ex03.html"> <!-- sends info to the same page but with info in the url -->
+            <div><!-- how many people visited -->
+                <label for="howMany">How many in your group?</label>
+                <input id="howMany" name="howMany" type="number" min="0" max="10" step="1" value="1">
+            </div>
+            <!-- when they visited -->
+        <div>
+            <label for="WhenVisit">When did you Visit?</label>
+            <input type="date" id="WhenVisit" name="WhenVisit">
+        </div>
+        <!-- they're favorite places to visit -->
+            <fieldset>
+                <legend>Favorite Place</legend>
+                <div>
+                    <input type="radio" class="place" id="Baseball_Field" name="place" value="Baseball_Field">
+                    <label for="Baseball_Field">Baseball Field</label>
+                </div>
+                <div>
+                    <input type="radio" class="place" id="Museum" name="place" value="Museum">
+                    <label for="Museum">Museum</label>
+                </div>
+                <div>
+                    <input type="radio" class="place" id="Luigis_Italian_Restaurant" name="place" value="Luigis_Italian_Restaurant">
+                    <label for="Luigis_Italian_Restaurant">Luigis Italian Restaurant</label>
+                </div>
+                <div>
+                    <input type="radio" class="place" id="Mom's_Hotel" name="place" value="Mom's_Hotel">
+                    <label for="Mom's_Hotel">Mom's Hotel</label>
+                </div>
+                <div>
+                    <input type="radio" class="place" id="The_Youth_Hostel" name="place" value="The_Youth_Hostel">
+                    <label for="The_Youth_Hostel">The Youth Hostel</label>
+                </div>
+
+            </fieldset>
+            <!-- their rating of the overall experience -->
+            <label for="rate">Overal Rate your visit to our small town:</label>
+            <div>
+                0
+                <input type="range" id="rate" name="rate" value="0">
+                100
+            </div>
+            <input type="submit"> <!-- submit button -->
+        </form>
+    </main>
+</body>
+</html>

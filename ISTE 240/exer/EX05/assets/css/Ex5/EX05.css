@@ -1,0 +1,37 @@
+/* Darren Yang
+6/23/2024
+ISTE240 Exercise 5 - JavaScript Part 3 */
+/* displays a vertical line on the left side */
+body{
+    border-left: 1px solid;
+}
+
+/* Some styling for the hr that seperates each exercise */
+
+hr{
+    width:100%;
+    margin-left:5px;
+    height:1px;
+}
+
+/* Styling for each exercise */
+.ex{
+    margin-left:5px;
+    margin-top:10px;
+}
+
+#ex5c form{
+    display:flex;
+    flex-direction: column;
+    max-width:fit-content;
+    row-gap: 20px;
+}
+
+.exerTitle{
+    font-size: 1.5em;
+    font-weight:bold;
+}
+
+h2{
+    margin-top:0px;
+}

@@ -1,0 +1,102 @@
+body{
+    background-color:rgb(44, 44, 48);
+}
+
+/* container used for select option boxes */
+.container {
+    background-color:blueviolet;
+    max-width:300px;
+    margin:10px;
+    padding:30px;
+    border-radius:30px;
+}
+
+.container h1{
+    line-height:25px;
+    color:white;
+}
+
+.container p{
+    line-height:25px;
+    color:white;
+}
+
+.container a{
+    color:whitesmoke;
+}
+
+.container a:link{
+    color:whitesmoke;
+}
+
+.container a:hover{
+    color:whitesmoke;
+}
+
+.container a:visited{
+    color:rgb(30, 25, 25);
+}
+
+/*Results of selection and etc*/
+#results{
+    position:relative;
+    display:flex;
+    flex-direction:column;
+    background-color: blueviolet;
+    padding:30px;
+    max-width:300px;
+    border-radius: 30px;
+}
+
+#results p{
+    font-weight: bold;
+}
+
+
+img{
+    max-height:400px;
+    border-radius: 30px;
+}
+
+/* styles for feedback box */
+#feed{
+    max-width: 200px;
+    margin:20px;
+}
+
+.text{
+    max-width:300px;
+    margin:10px;
+}
+
+/* styles for forms */
+
+form{
+    display:flex;
+    flex-direction:column;
+    align-content: space-evenly;
+    justify-content: space-between;
+    max-width:300px;
+    padding:10px;
+}
+
+form label{
+    font-size:1em;
+    margin:5px;
+}
+
+form input{
+    max-width:200px;
+    font-size:1em;
+    margin:20px;
+}
+
+label{
+    font-weight: bold;
+}
+
+
+
+
+
+

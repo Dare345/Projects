@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Storage Example</title>
+	<script type="text/javascript" src="cookies.js"></script>
+	<script type="text/javascript">
+		////////////////////////////Careful - does not work on file:// (MUST upload to gibson)
+		//////For the project, do something that fits into what you are building - if you do this, you will get a "0" for storage
+		//localStorage & cookies
+		//function changebg(what){}
+		const changebg = (what) =>{
+			//does the browser understand localStorage
+			if(window.localStorage){
+				//feedback for what I'm working on
+				document.getElementById('output').firstChild.nodeValue = "localStorage";
+
+				if(what){
+					//if an arg (what) - the I need to put what into localStorage
+					localStorage.setItem('color',what);
+				}
+
+				if(localStorage.getItem('color')){
+					document.getElementsByTagName('body')[0].style.backgroundColor =
+						localStorage.getItem('color');
+				}
+
+				//if no arg, (what) - then I need to change the background to the val in localStorage
+			}else{
+				//if I am here - then what? I have to use cookies...
+				//so go and do the same thing with cookies...
+			}
+		}
+
+		function clearbg(){
+			//remove from storage
+			localStorage.removeItem('color');
+			//change background
+			document.getElementsByTagName('body')[0].style.backgroundColor = '';
+		}
+
+		//cookies!
+		//first time?
+		if (GetCookie('user_id') == null){
+			//they haven't been here before
+			var name = prompt("hi, first time give name...", '');
+			//put in cookie
+			SetCookie('user_id',name);
+			SetCookie('hit_count',1);
+			document.write("<h2>Welcome there -" +name+ ", looks like your first time...</h2>");
+		}else{
+			SetCookie('hit_count',parseInt(GetCookie('hit_count')) + 1);
+			document.write("<h3>welcome back, "+GetCookie("user_id")+", you have been here "+GetCookie("hit_count")+ " times...");
+		}
+
+	</script>
+</head>
+<body onload="changebg()">
+<div id="output"> </div>
+<div style="position:absolute;right:10px;bottom:10px;background:#c9c;">
+	Change your style. <span style="cursor:pointer;" onclick="changebg('red');">Red</span> | 
+	<span style="cursor:pointer;" onclick="changebg('green');">Green</span> | 
+	<span style="cursor:pointer;" onclick="clearbg()">Clear</span>
+</div>
+</body>
+</html>

@@ -1,0 +1,20 @@
+//in js
+let x = document.createElement("h2");
+//<h2/>
+//in memory Only
+x.setAttribute("style", "color:red");
+//<h2 style="color:red"/>
+x.setAttribute('id','test');
+//<h2 style="color:red" id="test"/>
+
+let t = document.createTextNode("hello Mom");
+//x.appendChild(t);
+
+//x.appendChild(document.createTextNode("hello Mom"));
+
+//now -
+//<h2 style="color:red" id="test">hello Mom</h2>
+
+//put on page
+//at end of body
+document.getElementsByTagName('body')[0].appendChild(x);

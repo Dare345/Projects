@@ -1,0 +1,16 @@
+function const(dom){
+    //??? do I have more data?
+    let hold = data[dom.value]; 
+    //dom.value is 'man'
+    //hold is: ['what kind of man?,'tall','short']
+
+    //is hold holding any data?
+
+    if(hold != undefined){
+        //I have data - build!
+    }else{
+        //no more data - build final output/form
+    }
+
+
+}

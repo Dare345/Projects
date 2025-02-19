@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+    <script>
+        function val(){
+            let ret = true;
+            if (document.forms[0].elements[0].value == ""){
+                //turn something red
+                //don't leave
+                document.forms[0].elements[0]
+                ret = false;
+            }
+
+            if (document.forms[0].elements[1].value == ""){
+                //turn something red
+                //don't leave
+
+                ret=false;
+            }
+
+            
+            return ret;
+        }
+    </script>
+</head>
+<body>
+
+    <form action="page.php" method="get" onsubmit=" return val();">
+        first name:<input type="text" name="fn"/><br>
+        last name:<input type="text" name="ln"/><br>
+
+        <input type="submit" value="click me" />
+    </form>
+
+    <!--
+        When sending data for a form make sure inputs have a name
+        forms.html?fn=dan&ln=bog
+        in php
+
+        $_GET['fn'] (dan)
+        $_POST['fn'] (but has to be sent as a post on line 10)
+    -->
+
+</body>
+</html>

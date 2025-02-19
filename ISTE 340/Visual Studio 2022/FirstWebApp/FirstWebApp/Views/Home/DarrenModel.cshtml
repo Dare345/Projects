@@ -1,0 +1,13 @@
+﻿@model FirstWebApp.Models.DarrenModel
+@{
+    ViewData["Title"] = Model.PageTitle;
+}
+<h1>@Model.Title</h1>
+<p>@Model.Description</p>
+
+<ul>
+    @for(var i = 0; i < Model.HowMany;i++)
+    {
+        <li>Number: @i</li>
+    }
+</ul>

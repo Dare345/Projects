@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice 1</title>
+    <style>
+        body{
+            display:flex;
+            justify-content: center;
+        }
+        .container{
+            display:flex;
+            justify-content: center;
+            align-items: center;
+            background-color:aquamarine;
+            max-width:500px;
+            width:500px;
+            height:500px;
+            margin:50px;
+        }
+
+        @keyframes slide{
+            from{bottom:100px; opacity:0.2;}
+            to{bottom:0px; opacity:1;}
+        }
+
+        .container h1{
+            position:relative;
+            animation-name:slide;
+            animation-duration:2s;
+
+        }
+    </style>
+
+    <script>
+
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1 class="appear">Box 1</h1>
+    </div>
+
+    <div class="container">
+        <h1>box 2</h1>
+    </div>
+
+    <div class="container">
+        <h1>box 3</h1>
+    </div>
+</body>
+</html>

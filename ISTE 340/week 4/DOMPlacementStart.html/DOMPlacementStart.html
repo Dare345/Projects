@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>DOM Placement</title>
+	<script>
+		function changeMe(){
+      let rEle = document.createElement('input');
+      //rEle.setAttribute('type','range');
+      rEle.type = "range";
+      //<type input="range"/>
+
+      //put it on the page!
+
+      //parent.appendChild(ele);
+      //end of document
+      //document.getElementsByTagName('body')[0].appendChild(rEle);
+      //end of text id
+      // document.getElementById('text').appendChild(rEle);
+
+      //if you append a child that already appended it will just pick up and place it in the new Can only be one
+      //parentToGoInto.insertBefore(ele, childOfParentToGoInto);
+      //top of the page
+      // document.getElementsByTagName('body')[0].insertBefore( rEle,
+      //   document.getElementsByTagName('body')[0].firstChild
+      // );
+
+      // document.$$('body', 0).insertBefore( rEle,
+      //  $('everything'));
+
+      //at the start of moreText
+      // $('moreText').insertBefore(rEle, $('moreText').firstChild);
+
+      //$(id) takes in id a id as a string
+    //returns the dom element!
+
+    //between the boxes
+    // $('everything').insertBefore(rEle, $('moreText'));
+
+    //parent.removeChild( childToOfParentToKill)
+    //$('everything').removeChild($('moreText'));
+    // $('moreText').removeChild($('moreText').childNodes[0]);
+    
+    //parent.replaceChild(ele, childOfParentToReplace)
+    // $('everything').replaceChild( rEle, $('moreText'));
+
+    //nodeToClone.cloneNode(t/f);
+    // let c = $('everything').cloneNode(true);
+    // $$('body', 0).appendChild(c);
+
+    //innerHTML
+    //You can NOT use innerHTML in your first project!!!
+    //that also means innerText!
+    $('text').innerHTML = "<h1>fred<h1>";
+		}
+
+
+    function $(id){
+      return document.getElementById(id);
+    }
+
+    function $$(ele,pos){
+      return document.getElementsByTagName(ele)[pos];
+    }
+	
+	</script>
+</head>
+<body>
+  <div id="everything">
+    <div id="buttons" style="position:absolute; top:8px; left:200px">
+      <button onclick="changeMe();">Do It!</button>
+    </div>
+
+    <div id="text" style="border:2px solid red;width:10em;">
+      Text
+    </div>
+    
+    <div id="moreText" style="border:2px solid orange;width:10em;">
+      More text
+    </div>
+   
+    <hr/>
+  </div>
+</body>
+</html>
