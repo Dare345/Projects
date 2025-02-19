@@ -1,0 +1,86 @@
+/*	*************************************
+	Base
+	************************************* */
+body { 
+	background-color: #dfeff0;
+	color: #333333;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+article { background-color: #50d07d; }
+aside { background-color: #b2cecf; }
+
+h1 {
+	color: #ad235e;
+	border-bottom: 1px solid #ad235e;
+}
+
+h2 {
+	font-style: italic;
+	font-weight: normal;
+	margin-bottom: 5px;
+	background-color: #d5edb3;
+	color: #5c743d;
+	font-family: Georgia, "Times New Roman", serif;
+
+	/* the little leafy thing on the left...*/
+	background-image: url(../images/leaf-bullet.png);
+	background-repeat: no-repeat;
+	padding-left: 30px;
+}
+
+p { margin-top: 0; }
+
+ol, ul { padding-left: 20px; }
+
+a { 
+	color: #7d9c9f;
+	text-decoration: none;
+}
+a:hover { color: #ad235e;}
+
+/*	*************************************
+	Modules
+	************************************* */
+.container {
+	margin: 0 auto;
+	width: 720px;
+}
+.lead {
+	background-image: url(../images/bg.png);
+	padding: 10px;
+	color: white;
+	font-weight: bold;
+}
+
+.right {
+	float: right;
+	margin-left: 15px;
+}
+
+.img-frame {
+	border: 1px solid #999999;
+	padding: 5px;
+}
+
+.boxes { 
+	border: 3px dashed blue; 
+	padding: 5px;
+}
+.box { 
+	display: table-cell;
+	border: 3px solid hotpink; 
+	padding: 5px;
+}
+
+/*	*************************************
+	Layout
+	************************************* */
+#main-story {
+	display: table-cell;
+	width: 500px;
+}
+
+#extra-stuff {
+	display: table-cell;
+}
