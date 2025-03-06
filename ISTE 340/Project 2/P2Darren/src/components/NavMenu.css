@@ -1,0 +1,12 @@
+.ui.stackable.menu{
+    margin:0px;
+    justify-content: space-between;
+}
+.ui.stackable.menu .item{
+    padding:25px 50px;
+}
+@media only screen and (max-width: 850px) {
+    .ui.stackable.menu{
+        width:100%;
+    }
+} 
