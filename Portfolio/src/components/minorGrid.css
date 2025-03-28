@@ -1,0 +1,10 @@
+.container{
+    width:100%;
+    height:auto;
+}
+/* css for grid */
+.grid{
+    display:flex;
+    justify-content: center;
+    width:100%;
+}

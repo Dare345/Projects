@@ -1,0 +1,49 @@
+.container{
+    display:flex;
+    flex-direction:column;
+    flex-wrap:wrap;
+    align-content: center;
+    padding-top:50px;
+    margin-bottom: 50px;
+    width:100%;
+}
+
+.degreeHead{
+    margin:auto;
+}
+
+.under{
+    width:100%;
+}
+
+.accor{
+    position:relative;
+    display:flex;
+    flex-direction: column;
+    flex-wrap:wrap;
+}
+
+.concentrations{
+    text-align: center;
+    margin-top:100px;
+}
+
+.concentrations h3{
+    color:white;
+}
+
+h2{
+    color:white;
+    text-align: center;
+}
+
+h5{
+    color:white;
+}
+
+p {
+    color:white;
+    line-height: 2em;
+}
+
+
