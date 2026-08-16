@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DarrenP3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33192d33660286cf33b089aea34fd5aadde5708f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1d5175411e154db00ecf3d6b41105b0cd15bdd9")]
 [assembly: System.Reflection.AssemblyProductAttribute("DarrenP3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DarrenP3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
